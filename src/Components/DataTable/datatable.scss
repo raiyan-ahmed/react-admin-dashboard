@@ -1,0 +1,56 @@
+.data_table {
+  height: 660px;
+  width: 100%;
+
+  .userr {
+    display: flex;
+    align-items: center;
+
+    .userr_image {
+      height: 36px;
+      width: 36px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 10px;
+    }
+  }
+
+  .status {
+
+    //
+    &.active {
+      color: green;
+    }
+
+    &.passive {
+      color: #cc1f6a;
+    }
+  }
+
+  .actionn {
+    display: flex;
+    align-items: center;
+    // justify-content: space-between;
+
+    .view_btn {
+      padding: 5px 12px;
+      cursor: pointer;
+      border-radius: 4px;
+      border: none;
+      margin-right: 10px;
+      color: #7551f8d2;
+      border: 1px solid #7551f8bd;
+      background: none;
+    }
+
+    .delete_btn {
+      padding: 5px 12px;
+      cursor: pointer;
+      border-radius: 4px;
+      border: none;
+      color: #cc1f6a;
+      border: 1px solid #cc1f6a;
+      background: none;
+    }
+  }
+}
