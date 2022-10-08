@@ -77,3 +77,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Dark Theme
 ![dark_theme](https://user-images.githubusercontent.com/86631391/194650041-0cc3e47e-7024-422f-92cd-454e1d949c33.png)
+
+### Transactions List
+![transaction_details](https://user-images.githubusercontent.com/86631391/194711313-21ee3572-b266-4097-b28a-addf28ec0bfd.png)
+
+### User List
+![user_list](https://user-images.githubusercontent.com/86631391/194711329-4eb8a0f7-c23d-48d7-b3a5-c0f410690900.png)
+
+### Add a New User
+![add_new_user](https://user-images.githubusercontent.com/86631391/194711358-f323277d-1227-4cff-9119-3a761bcd0f2b.png)
+
+### Products List
+![products_list](https://user-images.githubusercontent.com/86631391/194711380-79bd7d91-cbda-4af7-8752-61edfbd8827f.png)
+
+### Add a New product
+![add_new_product](https://user-images.githubusercontent.com/86631391/194711397-d6b160ba-65de-4eb3-8170-cb89132040b9.png)
